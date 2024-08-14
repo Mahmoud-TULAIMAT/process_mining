@@ -1,0 +1,6 @@
+pandas
+networkx
+matplotlib
+bpmn_python
+streamlit
+graphviz
