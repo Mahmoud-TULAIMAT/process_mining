@@ -5,10 +5,10 @@ import json
 import graphviz
 import logging
 import traceback
-import alpha_algo_app
+import alpha_miner_logic as alpha_algo_app
 
 # Load parameters
-PARAMETERS_PATH = "C:/projects/processMining/"
+PARAMETERS_PATH = ""
 PARAMETERS_FILE_NAME = "parameters.json"
 with open(os.path.join(PARAMETERS_PATH, PARAMETERS_FILE_NAME)) as f:
     param = json.load(f)

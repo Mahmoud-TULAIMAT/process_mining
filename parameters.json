@@ -1,11 +1,11 @@
 {
   "log_file_name": "analyser_script_log.log",
   "datetime_format": "\\d{4}/\\d{2}/\\d{2}-\\d{2}:\\d{2}:\\d{2}",
-  "analysed_log_path": "C:\\projects\\processMining\\event logs",
+  "analysed_log_path": "event logs",
   "unrecognised" : "UNRECOGNIZED_LOG_FORMAT",
   "columns": ["case_id", "activity_name", "timestamp"],
   "output_file_name" : "graph.png",
-  "output_file_directory" : "C:\\projects\\processMining\\",
+  "output_file_directory" : "output\\",
   "tested_file":"log2.csv",
   "texts": {
     "left_block_author_refs": "Welcome to the Alpha Miner Algorithm Tester App! This Streamlit application is designed to support my master's thesis titled \"Benchmarking Process Mining Algorithms for Performance and Scalability.\" Developed by Mahmoud TULAIMAT Date: 12th August 2024\n\n## References\n1. van der Aalst, W.M.P. (2022). Foundations of Process Discovery. In: van der Aalst, W.M.P., & Carmona, J. (Eds.), PMSS 2022, LNBIP, vol. 448. Springer, Cham. [Read the Paper](https://doi.org/10.1007/978-3-031-08848-3_2)",

@@ -12,7 +12,7 @@ import time
 from bpmn_python import bpmn_diagram_rep as bpmn
 
 # Configuration
-PARAMETERS_PATH = "C:/projects/processMining/"
+PARAMETERS_PATH = ""
 PARAMETERS_FILE_NAME = "parameters.json"
 
 def read_parameters(file_path):
